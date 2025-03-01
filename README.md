@@ -1,3 +1,3 @@
 # Albana-Herawan
-git clone https://github.com/username-anda/repository-yang-difork.git
-cd repository-yang-difork
+git remote add upstream https://github.com/pemilik-asli/repository-asli.git
+
